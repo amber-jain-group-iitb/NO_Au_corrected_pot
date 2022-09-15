@@ -1,0 +1,20 @@
+3             !! iflow
+300           !! iproc
+20            !! iparallel
+120           !! iwait
+4             !! n_layers
+12            !! n_rows
+11            !! n_columns
+2             !! n_quant
+3.d-12        !! tim_eq
+10.d-12       !! tim_ad
+0.5d-15       !! dtc
+1000          !! n_traj
+10            !! n_Etr
+10.d-10       !! z_cutoff
+0             !! flag_write
+0             !! flag_write_vmd
+100           !! nsteps_write
+300.d0        !! temperature
+1729 3141     !! seed
+x
